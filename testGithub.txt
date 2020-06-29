@@ -1,1 +1,1 @@
-change from branch1
+change2:wq from branch1
